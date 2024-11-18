@@ -18,8 +18,3 @@ Estudiante de ingenieria de Software
 - 🌍 Me gusta resolver problemas y explorar oportunidades en 
 - ❤ Contribuyendo al Open Source siempre que puedo.
 - 💻 Conoce más sobre mí en [mi portafolio](https://PabloAML1.github.io). 😊
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://PabloAML1.github.io" alt="PabloMontero" />
-</p>
