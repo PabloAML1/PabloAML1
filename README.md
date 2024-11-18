@@ -10,11 +10,11 @@ Estudiante de ingenieria de Software
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Soy un apasionado por el desarrollo Full Stack y el aprendizaje en Machine Learning. Me encanta trabajar con tecnologías como Python, React.js, Node.js, Django, bases de datos relacionales, APIs REST y la visualización de datos.</p>
+<p align="left">Soy un apasionado por la programación y el aprendizaje. Me encanta trabajar con tecnologías como JAVA, Python, Node.js, y bases de datos relacionales</p>
 
 - ✨ Estudiante en la Universidad Técnica de Ambato (UTA) 🎓
 - 🌱 Tengo 20 años y una pasión por la tecnología.
-- 💁‍♂️ Participo en comunidades de desarrollo 
+- 💁‍♂️ Participo en proyectos de mi universidad.
 - 🌍 Me gusta resolver problemas y explorar oportunidades en 
 - ❤ Contribuyendo al Open Source siempre que puedo.
 - 💻 Conoce más sobre mí en [mi portafolio](https://PabloAML1.github.io). 😊
