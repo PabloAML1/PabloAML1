@@ -21,5 +21,5 @@ Estudiante de ingenieria de Software
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PabloMontero&label=Visitas%20al%20perfil&color=770677&style=for-the-badge&logo=star" alt="PabloMontero" />
+  <img src="https://PabloAML1.github.io" alt="PabloMontero" />
 </p>
