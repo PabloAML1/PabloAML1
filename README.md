@@ -1,7 +1,7 @@
 # pablomontero
 
 <div>
-  <img align="right" width="40%" src="https://e7.pngegg.com/pngimages/933/478/png-clipart-github-repository-source-code-version-control-github-mammal-cat-like-mammal.png">
+  <img align="right" width="40%" src="https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png">
 </div>
 
 <!--Header Name-->
