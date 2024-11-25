@@ -18,7 +18,6 @@ Estudiante de ingenieria de Software
 - 💻 Conoce más sobre mis proyectos en [mi portafolio](https://PabloAML1.github.io). 😊
 
 <br>
----
 
 ## 🌐 Encuéntrame en:
 
@@ -38,7 +37,6 @@ Estudiante de ingenieria de Software
 </p>
 
 <br>
----
 
 ## 🛠️ Tecnologías y herramientas que uso:
 
