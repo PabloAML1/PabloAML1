@@ -14,7 +14,8 @@ Estudiante de ingenieria de Software
 - ✨ Estudiante en la Universidad Técnica de Ambato (UTA) 🎓
 - 🌱 Tengo 20 años y una pasión por la tecnología.
 - 💁‍♂️ Participo en proyectos de mi universidad.
-- 🌍 Me gusta resolver problemas y explorar oportunidades en 
+- 🌍 Me gusta resolver problemas y explorar nuevas oportunidades
+- ❤️ Enfocado en terminar mi carrera universitaria  
 - 💻 Conoce más sobre mis proyectos en [mi portafolio](https://PabloAML1.github.io). 😊
 
 <br>
