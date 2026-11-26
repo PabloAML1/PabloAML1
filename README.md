@@ -27,41 +27,30 @@ Desarrollador full stack de Ambato, Ecuador. Construyo aplicaciones web y móvil
 <a name="projects"></a>
 <h2><img src="assets/seccion-projects-es.webp" width="1120" alt="Proyectos destacados"></h2>
 
-<p align="center">
-  <a href="https://fuelops.dayle.dev/demo"><img src="assets/fuelops-vista.webp" width="48%" alt="FuelOps"></a>
-  <a href="https://github.com/Arkasys-GDP/Kaphiy"><img src="assets/kaphiy-vista.webp" width="48%" alt="Kaphiy"></a>
-</p>
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <strong>FuelOps</strong><br>
+      <a href="https://fuelops.dayle.dev/demo"><img src="assets/fuelops-vista.webp" width="100%" alt="FuelOps"></a><br>
       Gestión de flotas, rutas y combustible.<br>
       <sub>NestJS · PostgreSQL · MongoDB</sub><br>
       <a href="https://fuelops.dayle.dev/demo">Demo</a> · <a href="https://github.com/Application-Distributed-Gasoline-System/Backend">Backend</a>
     </td>
     <td width="50%" valign="top">
-      <strong>Kaphiy</strong><br>
+      <a href="https://github.com/Arkasys-GDP/Kaphiy"><img src="assets/kaphiy-vista.webp" width="100%" alt="Kaphiy"></a><br>
       Pedidos por QR y panel de cocina.<br>
       <sub>Next.js · NestJS · Socket.IO</sub><br>
       <a href="https://github.com/Arkasys-GDP/Kaphiy">Repositorio</a>
     </td>
   </tr>
-</table>
-
-<p align="center">
-  <a href="https://bookingview.vercel.app/"><img src="assets/bookingview-vista.webp" width="48%" alt="BookingView"></a>
-  <a href="https://hamba-ec.vercel.app/"><img src="assets/hamba-vista.webp" width="48%" alt="HambaEC"></a>
-</p>
-<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong>BookingView</strong><br>
+      <a href="https://bookingview.vercel.app/"><img src="assets/bookingview-vista.webp" width="100%" alt="BookingView"></a><br>
       Reservas de alojamiento en web y móvil.<br>
       <sub>React · React Native · Node.js</sub><br>
       <a href="https://bookingview.vercel.app/">Demo</a> · <a href="https://github.com/DaGeus15/BookingView">Web</a> · <a href="https://github.com/PabloAML1/booking-native">Móvil</a>
     </td>
     <td width="50%" valign="top">
-      <strong>HambaEC</strong><br>
+      <a href="https://hamba-ec.vercel.app/"><img src="assets/hamba-vista.webp" width="100%" alt="HambaEC"></a><br>
       Landing para una clínica odontológica.<br>
       <sub>Astro · Tailwind CSS · GSAP</sub><br>
       <a href="https://hamba-ec.vercel.app/">Sitio web</a>
