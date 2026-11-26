@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="#about"><img src="assets/ir-about-en.webp" width="146" alt="About me"></a>
-  <a href="#projects"><img src="assets/ir-projects-en.webp" width="146" alt="Projects"></a>
-  <a href="#tools"><img src="assets/ir-tools-en.webp" width="146" alt="Technologies"></a>
-  <a href="#contact"><img src="assets/ir-contact-en.webp" width="146" alt="Contact"></a>
+  <a href="#user-content-about"><img src="assets/ir-about-en.webp" width="146" alt="About me"></a>
+  <a href="#user-content-projects"><img src="assets/ir-projects-en.webp" width="146" alt="Projects"></a>
+  <a href="#user-content-tools"><img src="assets/ir-tools-en.webp" width="146" alt="Technologies"></a>
+  <a href="#user-content-contact"><img src="assets/ir-contact-en.webp" width="146" alt="Contact"></a>
 </p>
 
 <a name="about"></a>
