@@ -7,37 +7,70 @@
   </picture>
 </a>
 
-## Sobre mí
+<p align="center">
+  <a href="https://pabloaml-portfolio.vercel.app/CV_Pablo.pdf"><img src="assets/acceso-cv-es.webp" width="157" alt="Ver mi CV en PDF"></a>
+  <a href="https://pabloaml-portfolio.vercel.app/"><img src="assets/enlace-portafolio.webp" width="157" alt="Portafolio"></a>
+</p>
+
+<p align="center">
+  <a href="#about"><img src="assets/ir-about-es.webp" width="146" alt="Sobre mí"></a>
+  <a href="#projects"><img src="assets/ir-projects-es.webp" width="146" alt="Proyectos"></a>
+  <a href="#tools"><img src="assets/ir-tools-es.webp" width="146" alt="Tecnologías"></a>
+  <a href="#contact"><img src="assets/ir-contact-es.webp" width="146" alt="Contacto"></a>
+</p>
+
+<a name="about"></a>
+<h2><img src="assets/seccion-about-es.webp" width="1120" alt="Sobre mí"></h2>
 
 Desarrollador full stack de Ambato, Ecuador. Construyo aplicaciones web y móviles, APIs y sistemas distribuidos. También diseño landing pages para negocios locales.
 
-## Proyectos destacados
+<a name="projects"></a>
+<h2><img src="assets/seccion-projects-es.webp" width="1120" alt="Proyectos destacados"></h2>
 
 <p align="center">
   <a href="https://fuelops.dayle.dev/demo"><img src="assets/fuelops-vista.webp" width="48%" alt="FuelOps"></a>
   <a href="https://github.com/Arkasys-GDP/Kaphiy"><img src="assets/kaphiy-vista.webp" width="48%" alt="Kaphiy"></a>
 </p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>FuelOps</strong><br>
+      Gestión de flotas, rutas y combustible.<br>
+      <sub>NestJS · PostgreSQL · MongoDB</sub><br>
+      <a href="https://fuelops.dayle.dev/demo">Demo</a> · <a href="https://github.com/Application-Distributed-Gasoline-System/Backend">Backend</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Kaphiy</strong><br>
+      Pedidos por QR y panel de cocina.<br>
+      <sub>Next.js · NestJS · Socket.IO</sub><br>
+      <a href="https://github.com/Arkasys-GDP/Kaphiy">Repositorio</a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://bookingview.vercel.app/"><img src="assets/bookingview-vista.webp" width="48%" alt="BookingView"></a>
   <a href="https://hamba-ec.vercel.app/"><img src="assets/hamba-vista.webp" width="48%" alt="HambaEC"></a>
 </p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>BookingView</strong><br>
+      Reservas de alojamiento en web y móvil.<br>
+      <sub>React · React Native · Node.js</sub><br>
+      <a href="https://bookingview.vercel.app/">Demo</a> · <a href="https://github.com/DaGeus15/BookingView">Web</a> · <a href="https://github.com/PabloAML1/booking-native">Móvil</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>HambaEC</strong><br>
+      Landing para una clínica odontológica.<br>
+      <sub>Astro · Tailwind CSS · GSAP</sub><br>
+      <a href="https://hamba-ec.vercel.app/">Sitio web</a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<a href="https://github.com/Application-Distributed-Gasoline-System/Backend">FuelOps · Backend</a> &nbsp; · &nbsp; <a href="https://github.com/Arkasys-GDP/Kaphiy">Kaphiy · Repositorio</a><br>
-<a href="https://github.com/DaGeus15/BookingView">BookingView · Código web</a> &nbsp; · &nbsp; <a href="https://github.com/PabloAML1/booking-native">Código móvil</a>
-</p>
-
-<details>
-  <summary>Sobre los proyectos</summary>
-
-- **FuelOps** · Flotas, rutas y combustible · NestJS, PostgreSQL y MongoDB.
-- **Kaphiy** · Pedidos por QR y panel de cocina en tiempo real · Next.js y NestJS.
-- **BookingView** · Reservas de alojamiento en web y móvil · React, React Native y Node.js.
-- **HambaEC** · Landing para una clínica odontológica · Astro, Tailwind CSS y GSAP.
-
-</details>
-
-## Tecnologías y herramientas
+<a name="tools"></a>
+<h2><img src="assets/seccion-tools-es.webp" width="1120" alt="Tecnologías y herramientas"></h2>
 
 <a href="https://pabloaml-portfolio.vercel.app/#skills">
   <picture>
@@ -59,12 +92,13 @@ Desarrollador full stack de Ambato, Ecuador. Construyo aplicaciones web y móvil
 
 </details>
 
-## Contribuciones en GitHub
+<a name="activity"></a>
+<h2><img src="assets/seccion-activity-es.webp" width="1120" alt="Contribuciones en GitHub"></h2>
 
 ![Mapa isométrico de mis contribuciones en GitHub](profile-3d-contrib/contribuciones.svg)
 
 <a name="contact"></a>
-<h2 align="center">Contacto</h2>
+<h2><img src="assets/seccion-contact-es.webp" width="1120" alt="Contacto"></h2>
 
 <p align="center">
   <a href="https://pabloaml-portfolio.vercel.app/"><img src="assets/enlace-portafolio.webp" width="29%" alt="Portafolio"></a>
