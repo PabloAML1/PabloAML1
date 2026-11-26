@@ -1,56 +1,65 @@
+**Español** · [English](README.en.md)
+
 <a href="https://pabloaml-portfolio.vercel.app/">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portada-hercules.jpg">
-    <img src="assets/portada-hercules.webp" width="1120" alt="Explorar el portafolio de Pablo Montero, desarrollador full stack. Un marco dorado en perspectiva muestra La apoteosis de Hércules.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portada-olimpo-es.jpg">
+    <img src="assets/portada-olimpo-es.webp" width="1120" alt="Explorar el portafolio de Pablo Montero, desarrollador full stack. Un astrolabio de bronce gira sobre La apoteosis de Hércules.">
   </picture>
 </a>
 
 # Pablo Montero
 
-Soy **desarrollador full stack** en Ambato, Ecuador. Trabajo en sistemas distribuidos, APIs e interfaces web que se adaptan al móvil.
-
 <a href="https://pabloaml-portfolio.vercel.app/"><img src="assets/enlace-portafolio.webp" width="156" alt="Portafolio"></a>
 <a href="https://www.linkedin.com/in/pablo-montero-lopez/"><img src="assets/enlace-linkedin.webp" width="156" alt="LinkedIn"></a>
 <a href="mailto:monteropablo511@gmail.com"><img src="assets/enlace-correo.webp" width="156" alt="Correo"></a>
 
+## Sobre mí
+
+Soy **desarrollador full stack** de Ambato, Ecuador. Me interesa la arquitectura de sistemas y cómo una buena interfaz vuelve más fácil usar un producto. He trabajado en aplicaciones web y móviles, APIs y sistemas distribuidos, y diseño landing pages para negocios locales.
+
 ## Proyectos destacados
 
-### FuelOps · Gestión de flotas y combustible
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://fuelops.dayle.dev/demo"><img src="assets/fuelops-galeria.webp" alt="Panel con métricas de flota y combustible" width="100%"></a>
+      <h3>FuelOps</h3>
+      <p>Gestión de flotas, rutas y consumo de combustible con microservicios, gRPC y NATS.</p>
+      <p><strong>NestJS · TypeScript · PostgreSQL · MongoDB</strong></p>
+      <p><a href="https://fuelops.dayle.dev/demo">Demo de solo lectura</a> · <a href="https://github.com/Application-Distributed-Gasoline-System/Backend">Backend</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Arkasys-GDP/Kaphiy"><img src="assets/kaphiy-galeria.webp" alt="Menú móvil y panel de cocina de Praliné" width="100%"></a>
+      <h3>Kaphiy</h3>
+      <p>Pedidos por QR para Praliné Coffee House, con menú móvil y panel de cocina en tiempo real.</p>
+      <p><strong>Next.js · NestJS · PostgreSQL · Socket.IO</strong></p>
+      <p><a href="https://github.com/Arkasys-GDP/Kaphiy">Repositorio</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://bookingview.vercel.app/"><img src="assets/bookingview-galeria.webp" alt="Página de inicio de BookingView para buscar alojamiento" width="100%"></a>
+      <h3>BookingView</h3>
+      <p>Plataforma web y móvil para buscar alojamientos y gestionar reservas.</p>
+      <p><strong>React · React Native · Node.js · MongoDB</strong></p>
+      <p><a href="https://bookingview.vercel.app/">Demo web</a> · <a href="https://github.com/DaGeus15/BookingView">Código web</a> · <a href="https://github.com/PabloAML1/booking-native">Código móvil</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://hamba-ec.vercel.app/"><img src="assets/hamba-galeria.webp" alt="Portada de la landing odontológica de HambaEC" width="100%"></a>
+      <h3>HambaEC</h3>
+      <p>Landing para una clínica odontológica, parte de mi emprendimiento de desarrollo web para negocios de Ambato.</p>
+      <p><strong>Astro · Tailwind CSS · GSAP</strong></p>
+      <p><a href="https://hamba-ec.vercel.app/">Ver la landing</a></p>
+    </td>
+  </tr>
+</table>
 
-[![Panel de FuelOps con métricas de flota, recorridos y consumo](assets/fuelops-galeria.webp)](https://fuelops.dayle.dev/demo)
-
-Sistema distribuido desarrollado en equipo para gestionar vehículos, conductores, rutas y consumo de combustible. Su API Gateway conecta microservicios mediante gRPC y NATS.
-
-**NestJS · TypeScript · PostgreSQL · MongoDB · Docker Compose**
-
-[Demo de solo lectura](https://fuelops.dayle.dev/demo) · [Repositorio del backend](https://github.com/Application-Distributed-Gasoline-System/Backend)
-
-### Kaphiy · Pedidos para Praliné Coffee House
-
-[![Panel de cocina de Kaphiy junto al menú móvil de Praliné](assets/kaphiy-galeria.webp)](https://github.com/Arkasys-GDP/Kaphiy)
-
-Los clientes escanean un código QR, consultan el menú y hacen su pedido desde el celular. El monorepo reúne la aplicación web progresiva, el panel de cocina y el backend de pedidos en tiempo real.
-
-**Next.js · NestJS · PostgreSQL · Prisma · Socket.IO**
-
-[Repositorio](https://github.com/Arkasys-GDP/Kaphiy)
-
-### HambaEC · Landing page para una clínica odontológica
-
-[![Portada de la clínica HambaEC con sus servicios y vías de contacto](assets/hamba-galeria.webp)](https://hamba-ec.vercel.app/)
-
-Una landing para una clínica odontológica, como parte de mi emprendimiento de diseño y desarrollo web para negocios de Ambato. La página presenta los tratamientos y facilita agendar una cita desde el celular.
-
-**Astro · Tailwind CSS · GSAP**
-
-[Ver la landing](https://hamba-ec.vercel.app/)
-
-## Herramientas
+## Tecnologías y herramientas
 
 <a href="https://pabloaml-portfolio.vercel.app/#skills">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/teclado-herramientas.jpg">
-    <img src="assets/teclado-herramientas.webp" width="1120" alt="Teclado mecánico en perspectiva con las 27 herramientas de mi portafolio. Explorar el teclado interactivo.">
+    <img src="assets/teclado-herramientas.webp" width="1120" alt="Teclado en perspectiva con 27 tecnologías. Explorar el teclado interactivo.">
   </picture>
 </a>
 
@@ -71,6 +80,4 @@ Una landing para una clínica odontológica, como parte de mi emprendimiento de 
 
 ![Mapa isométrico de mis contribuciones en GitHub](profile-3d-contrib/contribuciones.svg)
 
-Mapa generado con [GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib).
-
-Portada adaptada de [*La apoteosis de Hércules*, de François Lemoyne](https://commons.wikimedia.org/wiki/File:The_Apotheosis_of_Hercules.jpg). Logotipos del teclado de [Devicon](https://github.com/devicons/devicon), bajo [licencia MIT](assets/devicon-license.txt).
+Portada adaptada de [*La apoteosis de Hércules*, de François Lemoyne](https://commons.wikimedia.org/wiki/File:The_Apotheosis_of_Hercules.jpg). Logotipos del teclado de [Devicon](https://github.com/devicons/devicon), bajo [licencia MIT](assets/devicon-license.txt). Mapa generado con [GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib).
