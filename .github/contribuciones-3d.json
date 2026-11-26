@@ -1,0 +1,19 @@
+{
+  "type": "normal",
+  "fileName": "contribuciones.svg",
+  "backgroundColor": "#100e0d",
+  "foregroundColor": "#e9dcc8",
+  "strongColor": "#f5dbac",
+  "weakColor": "#b0a090",
+  "radarColor": "#c3996e",
+  "contribColors": ["#2a2420", "#624939", "#906b4d", "#be9467", "#eac58e"],
+  "growingAnimation": false,
+  "l10n": {
+    "commit": "Commits",
+    "repo": "Repositorios",
+    "review": "Revisiones",
+    "pullreq": "Pull requests",
+    "issue": "Issues",
+    "contrib": "Contribuciones"
+  }
+}
